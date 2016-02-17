@@ -6,5 +6,7 @@ int main(int argc, char *argv[])
 	
 	printf("Goodbye World");
 	
+	printf("Test");
+	
 	return 0;
 }
